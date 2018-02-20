@@ -3,13 +3,13 @@ var app = express();
 
 app.get('/', function(req, res) {
   res.send({
-    "Output": "Hello World Welcome to Vimal's Webpage!"
+    "Output": "Hello World Welcome to CG's Webpage!"
   });
 });
 
 app.post('/', function(req, res) {
   res.send({
-    "Output": "Hello World Welcome to Vimal's Webpage!"
+    "Output": "Hello World Welcome to CG's Webpage!"
   });
 });
 
